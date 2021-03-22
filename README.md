@@ -4,18 +4,12 @@ I'm a front-end developer for b8one, located on São Paulo, Brazil. <br/>
 Since 2017, I've been truly passionate about programming and all kinds of languages.<br/>
 I love learning new things and putting them immediatly in practice on side projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-## Things I code with
+## Things I code with 💻:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-2088FF?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -28,7 +22,7 @@ I love learning new things and putting them immediatly in practice on side proje
 Currently I'm practicing Vue.js and studying Node.js
 Here's my current [personal project](https://github.com/kenzotakamori/Yumi-Doghero)
 
-## How to reach me :globe_with_meridians:
+## How to reach me 🌐
 
 <a href="https://www.linkedin.com/in/marcelo-kenzo-takamori/">
   <img align="left" alt="Marcelo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
