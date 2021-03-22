@@ -4,7 +4,7 @@ I'm a front-end developer for b8one, located on São Paulo, Brazil. <br/>
 Since 2017, I've been truly passionate about programming and all kinds of languages.<br/>
 I love learning new things and putting them immediatly in practice on side projects.
 
-## Things I code with 💻:
+## Things I code with 💻
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-2088FF?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
