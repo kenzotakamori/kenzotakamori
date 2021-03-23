@@ -7,6 +7,7 @@ I love learning new things and putting them immediatly in practice on side proje
 ## Things I code with 💻
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-2088FF?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="VTEX" src="https://img.shields.io/badge/-Javascript-CC6699?style=flat-square&logo=vtex&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
