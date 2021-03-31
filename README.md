@@ -20,8 +20,8 @@ I love learning new things and putting them immediatly in practice on side proje
 
 ## What I'm focusing on 🌱
 
-Currently I'm practicing Vue.js and studying Node.js<br/>
-Here's my current [personal project](https://github.com/kenzotakamori/Yumi-Doghero)
+Currently I'm practicing and studying React.js<br/>
+Here's my current [personal project](https://github.com/kenzotakamori/pokemon-react)
 
 ## How to reach me 🌐
 
