@@ -18,11 +18,6 @@ I love learning new things and putting them immediatly in practice on side proje
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## What I'm focusing on 🌱
-
-Currently I'm practicing and studying React.js<br/>
-Here's my current [personal project](https://github.com/kenzotakamori/pokemon-react)
-
 ## How to reach me 🌐
 
 <a href="https://www.linkedin.com/in/marcelo-kenzo-takamori/">
@@ -37,3 +32,9 @@ Here's my current [personal project](https://github.com/kenzotakamori/pokemon-re
 <a href="https://www.codewars.com/users/kenzotakamori">
   <img align="left" alt="Marcelo's CodeWars" width="22px" src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" />
 </a>
+
+## What I'm focusing on 🌱
+
+Currently I'm practicing and studying React.js<br/>
+Here's my current [personal project](https://github.com/kenzotakamori/pokemon-react), and here's a sample of my work in progress!
+![Pokemon-React](https://user-images.githubusercontent.com/61280207/113518045-2bd66c00-955a-11eb-9d6c-f31ccb3c4157.gif)
