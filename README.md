@@ -1,6 +1,7 @@
 ### Hi, I'm Marcelo Kenzo 👋
 
-I'm a front-end developer for b8one, located on São Paulo, Brazil. <br/>
+I'm a front-end developer for Qintess, located on São Paulo, Brazil. <br/>
+Currently, I'm working at [C&A B2C Ecommerce](https://www.cea.com.br/). <br/>
 Since 2017, I've been truly passionate about programming and all kinds of languages.<br/>
 I love learning new things and putting them immediatly in practice on side projects.
 
